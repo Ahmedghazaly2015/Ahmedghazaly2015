@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg](https://upload.wikimedia.org/wikipedia/commons/c/c6/Moodle-logo.svg" height="40" alt="moodle logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Moodle-logo.svg" height="40" alt="moodle logo"  />
   <img width="12" />
 
 
