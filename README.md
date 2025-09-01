@@ -77,5 +77,7 @@
 <p align="left">
 📫 Reach me at: <a href="mailto:ahmedghazaly2015@gmail.com">ahmedghazaly2015@gmail.com</a><br>
 💼 LinkedIn: <a href=https://www.linkedin.com/in/ahmed-ghazaly-59b250163">Ahmed Ghazaly</a><br>
+💼 LinkedIn: <a href=https://www.linkedin.com/in/ahmed-ghazaly-59b250163">Ahmed Ghazaly</a><br>
+
 🎨 Behance: <a href="https://www.behance.net/ahmedghazaly">Portfolio</a>
 </p>
